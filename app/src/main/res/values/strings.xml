@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="food_detail_transition">food detail transition</string>
+    <string name="user_detail_transition">user detail transition</string>
+    <string name="like_number">100</string>
+    <string name="click_me">Click me !</string>
+    <string name="order_now">Order Now</string>
+</resources>
